@@ -1,0 +1,14 @@
+{
+  "name": "Monitor RPG",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "description": "Monitor simples de PV, TS e munição por personagem, NPC ou inimigo.",
+  "author": "Protótipo",
+  "action": {
+    "title": "Monitor",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "width": 340,
+    "height": 540
+  }
+}
