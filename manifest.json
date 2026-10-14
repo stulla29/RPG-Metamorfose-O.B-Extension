@@ -1,13 +1,13 @@
 {
-  "name": "Monitor RPG",
+  "name": "RPG Metamorfose O.B Extensão",
   "version": "0.1.0",
   "manifest_version": 1,
   "description": "Monitor simples de PV, TS e munição por personagem, NPC ou inimigo.",
-  "author": "Protótipo",
+  "author": "Stullan29",
   "action": {
     "title": "Monitor",
-    "icon": "/icon.svg",
-    "popover": "/index.html",
+    "icon": "https://stulla29.github.io/RPG Metamorfose O.B Extensão/icon.svg",
+    "popover": "https://stulla29.github.io/RPG Metamorfose O.B Extensão/index.html",
     "width": 340,
     "height": 540
   }
